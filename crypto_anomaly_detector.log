@@ -1,0 +1,50 @@
+2025-04-06 03:29:45,061 - INFO - Starting Crypto Pump & Dump Detection System
+2025-04-06 03:29:45,061 - INFO - Fetching historical data from Binance
+2025-04-06 03:29:45,274 - INFO - Raw data saved to data/raw/BTCUSDT_1h_20250406.csv
+2025-04-06 03:29:45,274 - INFO - Extracting features
+2025-04-06 03:29:45,282 - INFO - Processed data saved to data/processed/BTCUSDT_1h_processed_20250406.csv
+2025-04-06 03:29:45,282 - INFO - Training anomaly detection model
+2025-04-06 03:29:45,348 - INFO - Results saved to data/processed/BTCUSDT_1h_results_20250406.csv
+2025-04-06 03:29:45,348 - INFO - Generating anomaly plot
+2025-04-06 03:29:45,524 - INFO - Generating project report
+2025-04-06 03:29:45,524 - INFO - Crypto Pump & Dump Detection System completed successfully
+2025-04-06 03:35:31,702 - INFO - Starting Crypto Pump & Dump Detection System
+2025-04-06 03:35:31,702 - INFO - Fetching historical data from Binance
+2025-04-06 03:35:32,093 - INFO - Raw data saved to data/raw/BTCUSDT_1h_20250406.csv
+2025-04-06 03:35:32,093 - INFO - Extracting features
+2025-04-06 03:35:32,107 - INFO - Processed data saved to data/processed/BTCUSDT_1h_processed_20250406.csv
+2025-04-06 03:35:32,107 - INFO - Training anomaly detection model
+2025-04-06 03:35:32,179 - INFO - Results saved to data/processed/BTCUSDT_1h_results_20250406.csv
+2025-04-06 03:35:32,179 - INFO - Generating anomaly plot
+2025-04-06 03:35:32,361 - INFO - Generating project report
+2025-04-06 03:35:32,363 - INFO - Crypto Pump & Dump Detection System completed successfully
+2025-04-06 10:05:44,083 - INFO - Starting Crypto Pump & Dump Detection System
+2025-04-06 10:05:44,083 - INFO - Fetching historical data from Binance
+2025-04-06 10:05:44,466 - INFO - Raw data saved to data/raw/BTCUSDT_1h_20250406.csv
+2025-04-06 10:05:44,466 - INFO - Extracting features
+2025-04-06 10:05:44,480 - INFO - Processed data saved to data/processed/BTCUSDT_1h_processed_20250406.csv
+2025-04-06 10:05:44,480 - INFO - Training anomaly detection model
+2025-04-06 10:05:44,552 - INFO - Results saved to data/processed/BTCUSDT_1h_results_20250406.csv
+2025-04-06 10:05:44,552 - INFO - Generating anomaly plot
+2025-04-06 10:05:44,737 - INFO - Generating project report
+2025-04-06 10:05:44,740 - INFO - Crypto Pump & Dump Detection System completed successfully
+2025-04-06 10:07:57,127 - INFO - Starting Crypto Pump & Dump Detection System
+2025-04-06 10:07:57,128 - INFO - Fetching historical data from Binance
+2025-04-06 10:07:57,368 - INFO - Raw data saved to data/raw/BTCUSDT_1h_20250406.csv
+2025-04-06 10:07:57,368 - INFO - Extracting features
+2025-04-06 10:07:57,376 - INFO - Processed data saved to data/processed/BTCUSDT_1h_processed_20250406.csv
+2025-04-06 10:07:57,377 - INFO - Training anomaly detection model
+2025-04-06 10:07:57,448 - INFO - Results saved to data/processed/BTCUSDT_1h_results_20250406.csv
+2025-04-06 10:07:57,448 - INFO - Generating anomaly plot
+2025-04-06 10:07:57,644 - INFO - Generating project report
+2025-04-06 10:07:57,650 - INFO - Crypto Pump & Dump Detection System completed successfully
+2025-04-06 22:38:52,179 - INFO - Starting Crypto Pump & Dump Detection System
+2025-04-06 22:38:52,179 - INFO - Fetching historical data from Binance
+2025-04-06 22:38:53,538 - INFO - Raw data saved to data/raw/BTCUSDT_1h_20250406.csv
+2025-04-06 22:38:53,538 - INFO - Extracting features
+2025-04-06 22:38:53,550 - INFO - Processed data saved to data/processed/BTCUSDT_1h_processed_20250406.csv
+2025-04-06 22:38:53,550 - INFO - Training anomaly detection model
+2025-04-06 22:38:53,621 - INFO - Results saved to data/processed/BTCUSDT_1h_results_20250406.csv
+2025-04-06 22:38:53,621 - INFO - Generating anomaly plot
+2025-04-06 22:38:53,801 - INFO - Generating project report
+2025-04-06 22:38:53,806 - INFO - Crypto Pump & Dump Detection System completed successfully
